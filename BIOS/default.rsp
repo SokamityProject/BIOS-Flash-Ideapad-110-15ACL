@@ -1,0 +1,11 @@
+/bcp
+/nodelay
+/bbl
+/cvar
+/sd
+/sn
+/ipf all
+/file BIOS.cap
+/cac
+/cbp 0
+
